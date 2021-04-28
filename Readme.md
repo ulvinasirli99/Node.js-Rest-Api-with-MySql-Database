@@ -2,7 +2,7 @@
 
 # Node.JS Rest Api
 
-## NPM Intsall
+# npm intsall
 
 # Local json(user.json) use for node server.js or nodemon server.js
 
